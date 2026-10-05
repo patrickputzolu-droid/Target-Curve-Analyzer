@@ -1,2 +1,2 @@
 # Target-Curve-Analyzer
-A Python tool for objective evaluation of audio frequency responses against target curves, combining acoustic measurement, DSP analysis, and reproducible audio-quality metrics.
+Python-based audio engineering tool for analyzing target curves, measuring frequency-response deviations, and turning subjective sound discussions into reproducible engineering decisions.
